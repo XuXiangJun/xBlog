@@ -1,4 +1,4 @@
-## 暂时不用
+[Home](https://xuxiangjun.github.io/xBlog/)
 
-只是建来看看 Github Pages 效果
+## 空白
 
